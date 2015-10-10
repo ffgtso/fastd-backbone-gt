@@ -1,2 +1,2 @@
 key "2ddba2fe0ed61615016cbbbd71ca1afcc7432dd8eb81c1e18806bcbb766b72b3";
-remote gw01.4830.org port 10000;
+remote "gw01.4830.org" port 10000;

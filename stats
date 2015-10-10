@@ -1,2 +1,2 @@
 key "fcf10dd1caba177640854ca78a4e6b329af08e9050911288702f08b3ec68841c";
-remote stats.guetersloh.freifunk.net port 10000;
+remote "stats.guetersloh.freifunk.net" port 10000;
